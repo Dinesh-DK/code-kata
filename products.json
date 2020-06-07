@@ -1,12 +1,12 @@
 [{
-  "title": "Brown eggs",
-  "type": "dairy",
+  "title": "Curd Rice",
+  "type": "meal",
   "description": "Raw organic brown eggs in a basket",
   "filename": "0.jpg",
   "height": 600,
   "width": 400,
   "price": 28.1,
-  "rating": 4
+  "rating": 4.8
 }, {
   "title": "Sweet fresh stawberry",
   "type": "fruit",
